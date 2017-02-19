@@ -65,7 +65,7 @@ I shamelessly stole this repository and idea from
 
 ## License
 
-&copy; 2015-2016 Cheong Yip
+&copy; 2016-2017 Cheong Yip
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.
