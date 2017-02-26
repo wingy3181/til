@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_20 TILs and counting..._
+_21 TILs and counting..._
 
 ---
 
@@ -44,6 +44,10 @@ _20 TILs and counting..._
 > * https://gist.github.com/MohamedAlaa/2961058
 
 ---
+
+### web development
+
+- [Website Performance Optimization and Critical Rendering Path](web-development/website-performance-optimization-and-critical-rendering-path.md)
 
 ## Usage
 
