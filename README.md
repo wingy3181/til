@@ -51,9 +51,12 @@ _21 TILs and counting..._
 
 ## Usage
 
-The `.vimrc` file for this project contains a function `CountTILs` that can
+- The `.vimrc` file for this project contains a function `CountTILs` that can
 be invoked with `<leader>c`. This will do a substitution count of the
 current number of TILs and display the result in the command tray.
+- The `today-i-learned.sh` script for this project will prompt you for what you learnt
+and the topic. Using this information, it will automatically generate the folder structure,
+Markdown content for `README.md` and Markdown file for you to start entering your notes.
 
 ## About
 
