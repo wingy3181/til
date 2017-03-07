@@ -66,12 +66,23 @@ print_readme_markdown_list_item_and_section() {
 # ----------------------------------------------------------------------
 
 main() {
-    print_question "What topic did you learn today?"
-    declare -r TOPIC="$REPLY"
+    # If arguments have been passed to script, assume first argument is topic, otherwise prompt user for topic
+    if [ -n "$1" ]; then
+        declare -r TOPIC="$1"
+    else
+        print_question "What topic did you learn today?"
+        declare -r TOPIC="$REPLY"
+    fi
     declare -r TOPIC_KEBAB_CASE=$(kebab_case "$TOPIC")
 
-    print_question "What did you learn about $TOPIC?"
-    declare -r TOPIC_ITEM="$REPLY"
+    # If arguments have been passed to script, assume second argument is topic item, otherwise prompt user for topic item
+    if [ -n "$2" ]; then
+        declare -r TOPIC_ITEM="$2"
+    else
+        print_question "What did you learn about $TOPIC?"
+        declare -r TOPIC_ITEM="$REPLY"
+    fi
+
     declare -r TOPIC_ITEM_KEBAB_CASE=$(kebab_case "$TOPIC_ITEM")
 
     declare -r TOPIC_ITEM_MARKDOWN_TEMPLATE="# $TOPIC_ITEM
@@ -85,4 +96,4 @@ main() {
     printf "%s" "$TOPIC_ITEM_MARKDOWN_TEMPLATE" >> $TOPIC_KEBAB_CASE/$TOPIC_ITEM_KEBAB_CASE.md
 }
 
-main
+main "$@"
