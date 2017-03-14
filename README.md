@@ -49,6 +49,17 @@ _21 TILs and counting..._
 
 - [Website Performance Optimization and Critical Rendering Path](web-development/website-performance-optimization-and-critical-rendering-path.md)
 
+### webpack
+
+- [How to separate development and production config](wep)
+  - 2 ways, either you process env or separate config and can extend one from the other
+- [Global vs local install](webpack/)
+  - Install locally && Use npm scripts
+  - https://www.joezimjs.com/javascript/no-more-global-npm-packages/
+- [How to configure loaders]
+- [CSS splitting to avoid FOUC and use style and css loader]
+- [Code splitting - dynamic vs static ]
+
 ## Usage
 
 - The `.vimrc` file for this project contains a function `CountTILs` that can
