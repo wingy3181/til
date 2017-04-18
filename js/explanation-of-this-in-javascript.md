@@ -1,4 +1,4 @@
-# Explanation Of `this` In Javascript
+# Explanation of `this` in Javascript
 
 > ## TL;DR
 > Ask yourself:

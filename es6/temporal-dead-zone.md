@@ -1,4 +1,4 @@
-# Temporal Dead Zone
+# Temporal dead zone
 
 Temporal Dead Zone is the lines of code that cause an error because you cannot access a variable before it is defined.
 This is happens with the new ES6 keywords: `let` and `const` that are no longer hoisted to the top (like `var` does)
