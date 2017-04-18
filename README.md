@@ -5,13 +5,21 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_21 TILs and counting..._
+_22 TILs and counting..._
 
 ---
 
 ## Categories
 
+* [es6](#es6)
 * [tmux](#tmux)
+* [web development](#web development)
+
+---
+
+### es6
+
+- [General Notes](es6/general-notes.md)
 
 ---
 
