@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_25 TILs and counting..._
+_26 TILs and counting..._
 
 ---
 
@@ -21,6 +21,7 @@ _25 TILs and counting..._
 ### es6
 
 - [General Notes](es6/general-notes.md)
+- [Temporal Dead Zone](es6/temporal-dead-zone.md)
 
 ---
 
