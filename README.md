@@ -39,9 +39,9 @@ _21 TILs and counting..._
 - [Swap Split Panes](tmux/swap-split-panes.md)
 
 > References
-> * http://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/
-> * https://github.com/ckloppers/tmux.conf/blob/master/tmux.conf_for_windows_21April2015
-> * https://gist.github.com/MohamedAlaa/2961058
+> * <http://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/>
+> * <https://github.com/ckloppers/tmux.conf/blob/master/tmux.conf_for_windows_21April2015>
+> * <https://gist.github.com/MohamedAlaa/2961058>
 
 ---
 
