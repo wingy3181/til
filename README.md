@@ -5,13 +5,14 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_22 TILs and counting..._
+_25 TILs and counting..._
 
 ---
 
 ## Categories
 
 * [es6](#es6)
+* [js](#js)
 * [tmux](#tmux)
 * [web development](#web development)
 
@@ -20,6 +21,14 @@ _22 TILs and counting..._
 ### es6
 
 - [General Notes](es6/general-notes.md)
+
+---
+
+### js
+
+- [Explanation Of `this` In Javascript](js/explanation-of-this-in-javascript.md)
+- [Methods Within Versus Prototype For Constructor Functions](js/methods-within-vs-prototype-for-constructor-functions.md)
+- [Prototypical inheritance](js/prototypical-inheritance.md)
 
 ---
 
