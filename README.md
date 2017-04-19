@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_28 TILs and counting..._
+_29 TILs and counting..._
 
 ---
 
@@ -67,6 +67,7 @@ _28 TILs and counting..._
 
 ### web development
 
+- [How to change CSS styles of a site using Chrome developer tools via snippets](web-development/how-to-change-css-styles-of-a-site-using-chrome-developer-tools-via-snippets.md)
 - [Website Performance Optimization and Critical Rendering Path](web-development/website-performance-optimization-and-critical-rendering-path.md)
 
 ## Usage
