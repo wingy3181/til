@@ -86,6 +86,9 @@ main() {
     declare -r TOPIC_ITEM_KEBAB_CASE=$(kebab_case "$TOPIC_ITEM")
 
     declare -r TOPIC_ITEM_MARKDOWN_TEMPLATE="# $TOPIC_ITEM
+
+> References
+> * []()
 "
     # Print markdown text that can be added to READNE.md and copy to clipboard
     print_readme_markdown_list_item_and_section "$TOPIC" "$TOPIC_KEBAB_CASE" "$TOPIC_ITEM" "$TOPIC_ITEM_KEBAB_CASE.md"
