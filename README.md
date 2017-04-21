@@ -14,7 +14,7 @@ _29 TILs and counting..._
 * [es6](#es6)
 * [js](#js)
 * [tmux](#tmux)
-* [web development](#web development)
+* [web development](#web-development)
 
 ---
 
