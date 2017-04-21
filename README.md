@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_31 TILs and counting..._
+_32 TILs and counting..._
 
 ---
 
@@ -33,6 +33,7 @@ _31 TILs and counting..._
 - [Explanation Of `this` In Javascript](js/explanation-of-this-in-javascript.md)
 - [Event loop](js/event-loop.md)
 - [Methods Within Versus Prototype For Constructor Functions](js/methods-within-vs-prototype-for-constructor-functions.md)
+- [Promises](js/promises.md)
 - [Prototypical inheritance](js/prototypical-inheritance.md)
 
 ---
