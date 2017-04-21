@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_29 TILs and counting..._
+_30 TILs and counting..._
 
 ---
 
@@ -13,6 +13,7 @@ _29 TILs and counting..._
 
 * [es6](#es6)
 * [js](#js)
+* [oss](#oss)
 * [tmux](#tmux)
 * [web development](#web-development)
 
@@ -32,6 +33,12 @@ _29 TILs and counting..._
 - [Event loop](js/event-loop.md)
 - [Methods Within Versus Prototype For Constructor Functions](js/methods-within-vs-prototype-for-constructor-functions.md)
 - [Prototypical inheritance](js/prototypical-inheritance.md)
+
+---
+
+### oss
+
+- [How to Write an Open Source JavaScript Library](oss/how-to-write-an-open-source-javascript-library.md)
 
 ---
 
