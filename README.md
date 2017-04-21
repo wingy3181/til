@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_30 TILs and counting..._
+_31 TILs and counting..._
 
 ---
 
@@ -28,6 +28,7 @@ _30 TILs and counting..._
 
 ### js
 
+- [Closures](js/closures.md)
 - [Debugging tools](js/debugging-tools.md)
 - [Explanation Of `this` In Javascript](js/explanation-of-this-in-javascript.md)
 - [Event loop](js/event-loop.md)
