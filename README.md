@@ -5,17 +5,24 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_32 TILs and counting..._
+_33 TILs and counting..._
 
 ---
 
 ## Categories
 
+* [development practices, principles and patterns](#development-practices-principles-and-patterns)
 * [es6](#es6)
 * [js](#js)
 * [oss](#oss)
 * [tmux](#tmux)
 * [web development](#web-development)
+
+---
+
+### development practices, principles and patterns
+
+- [Twelve Ways to Make Code Suck Less](development-practices-principles-and-patterns/twelve-ways-to-make-code-suck-less.md)
 
 ---
 
