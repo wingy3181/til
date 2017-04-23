@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_33 TILs and counting..._
+_34 TILs and counting..._
 
 ---
 
@@ -13,6 +13,7 @@ _33 TILs and counting..._
 
 * [development practices, principles and patterns](#development-practices-principles-and-patterns)
 * [es6](#es6)
+* [jetbrains](#jetbrains)
 * [js](#js)
 * [oss](#oss)
 * [tmux](#tmux)
@@ -30,6 +31,12 @@ _33 TILs and counting..._
 
 - [General Notes](es6/general-notes.md)
 - [Temporal Dead Zone](es6/temporal-dead-zone.md)
+
+---
+
+### jetbrains
+
+- [IDE-shortcuts](jetbrains/ide-shortcuts.md)
 
 ---
 
